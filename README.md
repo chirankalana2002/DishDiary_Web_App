@@ -18,3 +18,7 @@ DishDiary is a simple recipe website where users can explore and share delicious
 2. Browse recipes on the home page.
 3. Click a recipe to view ingredients and instructions.
 4. Submit your own recipes using the Add Recipe page.
+
+5. ## links
+- repository link : https://github.com/chirankalana2002/DishDiary_Web_App
+- live link (github pages) : https://chirankalana2002.github.io/DishDiary_Web_App/
